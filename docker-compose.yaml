@@ -10,3 +10,4 @@ services:
       - './elk-storage:/elk/data'
     ports:
       - 5314:5314
+    restart: always
