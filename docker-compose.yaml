@@ -1,4 +1,4 @@
-services:
+version: "3.3"
   elk:
     build:
       context: .
